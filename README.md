@@ -27,3 +27,6 @@ The notebook explores data preprocessing, model training, hyperparameter tuning,
 1. Achieved optimal model accuracy through parameter tuning
 2. Identified best-performing random state and neighbor value
 3. Demonstrated clear performance improvement through cross-validation
+
+# How to Run
+https://github.com/swagath-git/KNN-code/blob/main/KNN%20code.ipynb
